@@ -1,0 +1,21 @@
+body{
+background-image: url(C:\Users\Marjorie\Desktop\images\STAYAWAY\IMG-20220402-WA0007.jpg);    
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+h1{
+    color:aqua;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20xp;
+}
+title{
+    text-align: center;
+    text-decoration: dotted;
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
